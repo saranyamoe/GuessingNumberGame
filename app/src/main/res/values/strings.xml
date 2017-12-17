@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Guessing Number Game</string>
+    <string name="key_name">name</string>
+    <string name="guessing_number_game_title_image">Guessing Number Game Title Image</string>
+    <string name="start_your_game">START YOUR GAME</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="question_mark">"?"</string>
+
+    <string name="submit">Submit</string>
+    <string name="enter_a_number">Enter a number</string>
+    <string name="quit_choice1">Quit Game</string>
+    <string name="next_level_choice2">Next Level</string>
+
+    <string name="question_level_0">Guess a number between 1 and 3</string>
+    <string name="hint_level_0">( Hint: It rhymes with shoe.) </string>
+
+    <string name="question_level_1">Guess a random number from 1 to 5</string>
+    <string name="hint_level_1">Hint: You\'re on your own.</string>
+
+    <string name="question_level_2">How many is a baker dozen?</string>
+    <string name="hint_level_2">Hint: Unlucky number</string>
+
+</resources>
