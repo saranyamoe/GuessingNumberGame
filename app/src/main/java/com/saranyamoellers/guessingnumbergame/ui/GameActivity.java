@@ -18,7 +18,6 @@ import android.widget.Toast;
 import com.saranyamoellers.guessingnumbergame.R;
 import com.saranyamoellers.guessingnumbergame.model.Game;
 import com.saranyamoellers.guessingnumbergame.model.GamePage;
-
 import java.util.Stack;
 
 public class GameActivity extends AppCompatActivity {
